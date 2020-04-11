@@ -7,11 +7,11 @@
     * 下载差异资源,并设置缓存资源路径
   
 # version_generator.js
-    生成version和manifest文件,编译后手动生成
-    [使用方法](https://github.com/cocos-creator/tutorial-hot-update)
+    生成version和manifest文件,编译后手动生成<br>
+  [使用方法](https://github.com/cocos-creator/tutorial-hot-update)
 
 # HotUpdate.ts
     热更新组件,包含简略逻辑
     
 # 热更新管理器 AssetsManager
-    [AssetsManager](https://docs.cocos.com/creator/manual/zh/advanced-topics/assets-manager.html)
+  [AssetsManager](https://docs.cocos.com/creator/manual/zh/advanced-topics/assets-manager.html)
